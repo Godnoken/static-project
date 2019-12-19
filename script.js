@@ -1,5 +1,7 @@
-console.log("Checking script")
+console.log("Checking script");
 
-const greet = document.querySelector(".hello")
+const greet = document.querySelector(".hello");
 
-greet.textContent = "Goodbye wow"
+greet.textContent = "Goodbye wow";
+
+const foo = "bar";
